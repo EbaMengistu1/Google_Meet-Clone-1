@@ -12,3 +12,6 @@ notGoogleMeet is a minified clone of Google's video conferencing web App, Google
 | [Express js]()                                          | ^4.18.1 |
 | [Redis](https://redis.io/)                              | ^3.0.2 |
 | [Socket.io](https://socket.io/)                         | ^4.5.1 |
+
+
+ #ProTip from @Julien Barbier
